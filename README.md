@@ -10,12 +10,6 @@
   </ul>
 </div>
 
-<div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=philippembambi&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippembambi&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
-
 ## Favorite Tech
 
 <div>

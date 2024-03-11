@@ -1,7 +1,7 @@
 <div id="bio">
   <h2>About Me</h2>
   <ul>
-    <li>I'm a software engeneer and fullstack developper</li>
+    <li>I'm a software engineer and fullstack developper</li>
     <li>I'm passionate about web technologies</li>
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    
     <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the software industry space.</li>
